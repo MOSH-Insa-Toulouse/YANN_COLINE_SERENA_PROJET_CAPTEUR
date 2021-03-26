@@ -16,17 +16,17 @@ Enfin, nous avons pu effectuer différents tests sur ce nouveau PCB et caractér
 ## Sommaire 
 
 * [Protocole d'utilisation du capteur de contrainte](#PremiereSection)
-* [Code Arduino (sur la BreadBord)] (#Code Arduino (sur la BreadBord))
-* [Application APK] []
-* [Fabrication du shield] []
-* [Datasheet] []
+* [Code Arduino (sur la BreadBord)](#DeuxiemeSection)
+* [Application APK](#TroisiemeSection)
+* [Fabrication du shield](#QuatriemeSection)
+* [Datasheet](#CinquiemeSection)
 
 ### Protocole d'utilisation du capteur de contrainte <a id="PremiereSection"></a>
 
-### Code Arduino (sur la BreadBord)
+### Code Arduino (sur la BreadBord) <a id="DeuxiemeSection"></a>
 
-### Application APK
+### Application APK <a id="TroisiemeSection"></a>
 
-### Fabrication du shield
+### Fabrication du shield <a id="QuatriemeSection"></a>
 
-### Datasheet
+### Datasheet <a id="CinquiemeSection"></a>
