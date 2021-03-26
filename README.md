@@ -15,7 +15,7 @@ Enfin, nous avons pu effectuer différents tests sur ce nouveau PCB et caractér
 
 ## Sommaire 
 
-* [Protocole d'utilisation du capteur de contrainte] (#Protocole d'utilisation du capteur de contrainte)
+* [Protocole d'utilisation du capteur de contrainte] (#Protocole d'utilisation du capteur de contrainte) # Protocole d'utilisation du capteur de contrainte
 * [Code Arduino (sur la BreadBord)] (#Code Arduino (sur la BreadBord))
 * [Application APK] []
 * [Fabrication du shield] []
