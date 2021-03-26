@@ -21,12 +21,32 @@ Enfin, nous avons pu effectuer différents tests sur ce nouveau PCB et caractér
 * [Fabrication du shield](#QuatriemeSection)
 * [Datasheet](#CinquiemeSection)
 
-### Protocole d'utilisation du capteur de contrainte <a id="PremiereSection"></a>
 
-### Code Arduino (sur la BreadBord) <a id="DeuxiemeSection"></a>
+## Protocole d'utilisation du capteur de contrainte <a id="PremiereSection"></a>
 
-### Application APK <a id="TroisiemeSection"></a>
+*Mettre une photo du BreadBord (ou du PCB s'il fonctionne) montrant : le capteur, l'écran, le module BlueTooth*
 
-### Fabrication du shield <a id="QuatriemeSection"></a>
+Tout d'abord, il faut brancher le module Arduino au port USB d'un ordinateur afin de le mettre sous tension. Le module Bluetooth devrait afficher un voyant rouge, clignotant à une fréquence assez rapide.
+
+Pour commencer, il faut télécharger l'application *"MIT AI2 Companion"*. 
+Ensuite, pour télécharger l'application que nous avons codée, il suffit de cliquer sur "scan QR Code" après ouverture de cette première application et de scanner le QR Code suivant : *mettre le QR Code de téléchargement*.
+
+Une fois notre application **Projet_Capteur** téléchargée, l'interface vue est la suivante : *mettre screen de l'appli*.
+
+Voilà la procédure à suivre afin de commencer à relever les valeurs de la résistance du capteur :
+
+* Cliquer sur *Appareils visibles*, en haut à gauche de l'écran
+* Sélectionner le module Bluetooth suivant : 98:D3:51:FE:21:CD: HC-05 (une fois la connexion établie, le voyant du Bluetooth doit clignoter de manière moins fréquente)
+* Cliquer sur le bouton **ON** pour commencer à acquérir des valeurs
+
+
+## Code Arduino (sur la BreadBord) <a id="DeuxiemeSection"></a>
+
+
+## Application APK <a id="TroisiemeSection"></a>
+
+
+## Fabrication du shield <a id="QuatriemeSection"></a>
+
 
 ### Datasheet <a id="CinquiemeSection"></a>
