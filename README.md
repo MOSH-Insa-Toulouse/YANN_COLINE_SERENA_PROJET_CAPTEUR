@@ -4,11 +4,11 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
 Ce projet s'inscrit dans l'UF "*Du capteur au banc de Test*" de l'INSA Toulouse, 4ème année Génie Physique. 
-Du **design** jusqu'à la **conception** en passant par le **codage**, toutes les étapes nécessaires à l'élaboration d'un capteur de graphène sont détaillées dans ce dossier.
+Du **design** jusqu'à la **conception** en passant par le **codage**, toutes les étapes nécessaires à l'élaboration d'un capteur de déformation / jauge de contrainte à base de graphite sont détaillées dans ce dossier.
 
 ## Récapitulatif ; qu'avons-nous fait dans les grandes lignes ?
 
-Tout d'abord, nous avons effectué nos premiers branchements et testé notre code sur notre chevelu ; le capteur renvoie une tension variable en fonction de la déformation du capteur. Nous avons ensuite utilisé le logiciel *MIT App Inventor* afin de réaliser une application smartphone APK, capable de lire la tension renvoyée par le capteur et de l'afficher sur un graphique à l'aide d'un module Bluetooth.
+Tout d'abord, nous avons effectué nos premiers branchements et testé notre code sur notre module Arduino, contenant un écran OLED ainsi qu'un module Bluetooth ; le capteur renvoie une tension variable en fonction de la déformation du capteur. Nous avons ensuite utilisé le logiciel *MIT App Inventor* afin de réaliser une application smartphone APK, capable de lire la tension renvoyée par le capteur et de l'afficher sur un graphique à l'aide d'un module Bluetooth.
 Ensuite, nous avons réalisé le design de notre shield à l'aide du logiciel *KICAD* et l'avons construit (perçage, soudage des composants, etc.) nous-même en salle de TP.
 Enfin, nous avons pu effectuer différents tests sur ce nouveau PCB et caractériser la résistance du capteur en fonction de sa déformation.
 
@@ -35,7 +35,7 @@ Une fois notre application **Projet_Capteur** téléchargée, l'interface vue es
 
 Voilà la procédure à suivre afin de commencer à relever les valeurs de la résistance du capteur :
 
-* Cliquer sur *Appareils visibles*, en haut à gauche de l'écran
+* Cliquer sur **Appareils visibles**, en haut à gauche de l'écran
 * Sélectionner le module Bluetooth suivant : 98:D3:51:FE:21:CD: HC-05 (une fois la connexion établie, le voyant du Bluetooth doit clignoter de manière moins fréquente)
 * Cliquer sur le bouton **ON** pour commencer à acquérir des valeurs
 * A tout moment, cliquez sur **OFF** pour stopper l'acquisition.
