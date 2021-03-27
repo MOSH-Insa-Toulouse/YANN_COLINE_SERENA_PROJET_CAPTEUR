@@ -1,5 +1,4 @@
 # YANN_COLINE_SERENA_PROJET_CAPTEUR
----
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
@@ -16,10 +15,11 @@ Enfin, nous avons pu effectuer différents tests sur ce nouveau PCB et caractér
 
 ## Sommaire 
 
-* [Protocole d'utilisation du capteur de contrainte](#PremiereSection)
+* [Protocole d'utilisation du capteur de contrainte](#PremiereSection) 
 * [Code Arduino (sur la BreadBord)](#DeuxiemeSection)
 * [Application APK](#TroisiemeSection)
 * [Fabrication du shield](#QuatriemeSection)
+  * [Composants designés : symboles et empreintes](#QuatriemeSection1)
 * [Datasheet](#CinquiemeSection)
 
 
@@ -54,9 +54,12 @@ Voilà la procédure à suivre afin de commencer à relever les valeurs de la r�
 
 
 
-## Fabrication du shield <a id="QuatriemeSection"></a>
+## Fabrication du PCB shield <a id="QuatriemeSection"></a>
 
-Pour fabriquer notre shield, nous avons d'abord dû le designer à l'aide du logiciel *KICAD*. 
+Pour fabriquer notre PCB shield, nous avons d'abord dû le designer à l'aide du logiciel *KICAD*. 
+Le PCB sera par la suite branché sur un microcontrôleur Arduino Uno, du même type que celui que nous avions utilisé avec notre BreadBord. Ce PCB contient également l'amplificateur transimpédance, le module Bluetooth, et l'écran OLED.
+
+### Composants créés : symboles et empreintes <a id="QuatriemeSection1"></a>
 
 
 ## Datasheet <a id="CinquiemeSection"></a>
