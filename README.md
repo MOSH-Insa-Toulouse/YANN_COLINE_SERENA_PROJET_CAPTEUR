@@ -8,7 +8,8 @@ Du **design** jusqu'à la **conception** en passant par le **codage**, toutes le
 
 ## Récapitulatif ; qu'avons-nous fait dans les grandes lignes ?
 
-Tout d'abord, nous avons effectué nos premiers branchements et testé notre code sur notre module Arduino, contenant un écran OLED ainsi qu'un module Bluetooth ; le capteur renvoie une tension variable en fonction de la déformation du capteur. Nous avons ensuite utilisé le logiciel *MIT App Inventor* afin de réaliser une application smartphone APK, capable de lire la tension renvoyée par le capteur et de l'afficher sur un graphique à l'aide d'un module Bluetooth.
+Tout d'abord, nous avons effectué nos premiers branchements et testé notre code sur notre module Arduino, contenant un amplificateur transimpédance, un écran OLED ainsi qu'un module Bluetooth. Le capteur, préalablement "colorié" avec divers types de graphite (9B, HB, 6B, ect.), permet au module d'afficher sur l'écran une résistance variable en fonction de sa déformation.
+Nous avons ensuite utilisé le logiciel *MIT App Inventor* afin de réaliser une application smartphone APK, capable de lire la résistance ressentie par le capteur et de l'afficher sur un graphique à l'aide d'un module Bluetooth.
 Ensuite, nous avons réalisé le design de notre shield à l'aide du logiciel *KICAD* et l'avons construit (perçage, soudage des composants, etc.) nous-même en salle de TP.
 Enfin, nous avons pu effectuer différents tests sur ce nouveau PCB et caractériser la résistance du capteur en fonction de sa déformation.
 
@@ -31,7 +32,9 @@ Tout d'abord, il faut brancher le module Arduino au port USB d'un ordinateur afi
 Pour commencer, il faut télécharger l'application *"MIT AI2 Companion"*. 
 Ensuite, pour télécharger l'application que nous avons codée, il suffit de cliquer sur "scan QR Code" après ouverture de cette première application et de scanner le QR Code suivant : *mettre le QR Code de téléchargement*.
 
-Une fois notre application **Projet_Capteur** téléchargée, l'interface vue est la suivante : *mettre screen de l'appli*.
+Une fois notre application **Projet_Capteur** téléchargée, l'interface vue est la suivante : 
+
+![screenappli](C:\Users\blueb\Documents\INSA\4A\S2\Capteurs\Screen_ecran_appli.png)
 
 Voilà la procédure à suivre afin de commencer à relever les valeurs de la résistance du capteur :
 
@@ -44,10 +47,14 @@ Voilà la procédure à suivre afin de commencer à relever les valeurs de la r�
 ## Code Arduino (sur la BreadBord) <a id="DeuxiemeSection"></a>
 
 
+
 ## Application APK <a id="TroisiemeSection"></a>
 
 
+
 ## Fabrication du shield <a id="QuatriemeSection"></a>
+
+Pour fabriquer notre shield, nous avons d'abord dû le designer à l'aide du logiciel *KICAD*. 
 
 
 ## Datasheet <a id="CinquiemeSection"></a>
