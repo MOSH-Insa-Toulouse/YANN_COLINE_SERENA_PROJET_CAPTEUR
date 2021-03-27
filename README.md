@@ -34,7 +34,7 @@ Ensuite, pour télécharger l'application que nous avons codée, il suffit de cl
 
 Une fois notre application **Projet_Capteur** téléchargée, l'interface vue est la suivante : 
 
-![screenappli](C:\Users\blueb\Documents\INSA\4A\S2\Capteurs\Screen_ecran_appli.png)
+![screenappli](Screen_ecran_appli.png)
 
 Voilà la procédure à suivre afin de commencer à relever les valeurs de la résistance du capteur :
 
