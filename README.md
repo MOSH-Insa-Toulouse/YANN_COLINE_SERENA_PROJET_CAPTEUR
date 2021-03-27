@@ -16,8 +16,8 @@ Enfin, nous avons pu effectuer différents tests sur ce nouveau PCB et caractér
 ## Sommaire 
 
 * [Protocole d'utilisation du capteur de contrainte](#PremiereSection) 
-* [Code Arduino (sur la BreadBord)](#DeuxiemeSection)
-* [Application APK](#TroisiemeSection)
+* [Code Arduino](#DeuxiemeSection)
+* [Application smartphone APK](#TroisiemeSection)
 * [Fabrication du shield](#QuatriemeSection)
   * [Composants designés : symboles et empreintes](#QuatriemeSection1)
   * [Schématique](#QuatriemeSection2)
@@ -51,11 +51,19 @@ Voilà la procédure à suivre afin de commencer à relever les valeurs de la r�
 * A tout moment, cliquez sur **OFF** pour stopper l'acquisition.
 
 
-## Code Arduino (sur la BreadBord) <a id="DeuxiemeSection"></a>
+## Code Arduino <a id="DeuxiemeSection"></a>
+
+Le code arduino permet : 
+* De récupérer la valeur de tension renvoyée par le capteur de graphène
+* De l'afficher sur un écran OLED 
+* D'assurer la connexion bluetooth entre le module Arduino et l'application smartphone APK
+
+*mettre photo du chevelu avec le module bluetooth, l'OLED et le capteur apparents*
 
 
+## Application smartphone APK <a id="TroisiemeSection"></a>
 
-## Application APK <a id="TroisiemeSection"></a>
+Grâce au logiciel *MIT App Inventor*, nous avons pu coder une application très simple, permettant d'afficher les tension et résistance délivrées par le capteur sur un graphique. Elle permet aussi d'assurer la connexion bluetooth entre le module Arduino et notre capteur. Voilà un screen du code
 
 
 
