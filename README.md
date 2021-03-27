@@ -32,9 +32,7 @@ Tout d'abord, il faut brancher le module Arduino au port USB d'un ordinateur afi
 Pour commencer, il faut télécharger l'application *"MIT AI2 Companion"*. 
 Ensuite, pour télécharger l'application que nous avons codée, il suffit de cliquer sur "scan QR Code" après ouverture de cette première application et de scanner le QR Code suivant : *mettre le QR Code de téléchargement*.
 
-Une fois notre application **Projet_Capteur** téléchargée, l'interface vue est la suivante : 
-
-<img src="https://user-images.githubusercontent.com/78104030/112719428-46c13480-8ef9-11eb-9b36-b447899ebbba.jpg" width="220" height="430">
+Une fois notre application **Projet_Capteur** téléchargée, l'interface vue est la suivante : <img src="https://user-images.githubusercontent.com/78104030/112719428-46c13480-8ef9-11eb-9b36-b447899ebbba.jpg" width="220" height="430">
 
 Voilà la procédure à suivre afin de commencer à relever les valeurs de la résistance du capteur :
 
