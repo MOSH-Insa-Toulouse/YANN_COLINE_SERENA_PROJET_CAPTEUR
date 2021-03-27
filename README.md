@@ -20,6 +20,11 @@ Enfin, nous avons pu effectuer différents tests sur ce nouveau PCB et caractér
 * [Application APK](#TroisiemeSection)
 * [Fabrication du shield](#QuatriemeSection)
   * [Composants designés : symboles et empreintes](#QuatriemeSection1)
+  * [Schématique](#QuatriemeSection2)
+  * [Placement des composants](#QuatriemeSection3)
+  * [Visualisation 3D](#QuatriemeSection4)
+  * [Réalisation du PCB](#QuatriemeSection5)
+  * [Perçage et soudure](#QuatriemeSection6)
 * [Datasheet](#CinquiemeSection)
 
 
@@ -59,7 +64,45 @@ Voilà la procédure à suivre afin de commencer à relever les valeurs de la r�
 Pour fabriquer notre PCB shield, nous avons d'abord dû le designer à l'aide du logiciel *KICAD*. 
 Le PCB sera par la suite branché sur un microcontrôleur Arduino Uno, du même type que celui que nous avions utilisé avec notre BreadBord. Ce PCB contient également l'amplificateur transimpédance, le module Bluetooth, et l'écran OLED.
 
-### Composants créés : symboles et empreintes <a id="QuatriemeSection1"></a>
+### Composants designés : symboles et empreintes <a id="QuatriemeSection1"></a>
 
+* **Ecranc OLED**
+*ajouter image*
+
+* **Module Bluetooth**
+*ajouter image*
+
+* **Amplificateur LT1050** (*empreinte présente par défaut dans le logiciel*)
+*ajouter image*
+
+### Schématique <a id="QuatriemeSection2"></a>
+
+Une fois les empreintes créées, nous avons pu réaliser le Eeschema de notre shield. 
+En haut à droite sont représentées les broches de la carte Arduino. Au centre du PCB, on trouve l'amplificateur transimpédance (permettant de traiter les données envoyées par le capteur, c'est-à-dire la variation de résistance), le module Bluetooth et l'écran OLED. 
+
+*mettre image eeschema*
+
+### Placement des composants <a id="QuatriemeSection3"></a>
+
+Ensuite, nous avons pu placer les composants sur notre PCB afin de les répartir au mieux et d'optimiser les branchements.
+
+*mettre image placement des composants (fond noir)*
+
+### Visualisation 3D <a id="QuatriemeSection4"></a>
+
+*mettre image visu 3D*
+
+### Réalisation du PCB <a id="QuatriemeSection5"></a>
+
+Le PCB a été réalisé au sein du génie physique, avec l'aide de Catherine Crouzet. Le PCB est réalisé sur une plaque d'epoxy possédant une fine couche de cuivre (environ 60µm).
+La silouhette du PCB (pris depuis KICAD) est d'abord imprimée sur du papier calque. Ensuite, le PCB est insolé aux UV pendant 5 minutes, avec la silouhette par-dessus. Puis à l'aide d'un révélateur, on retire la partie non insolée. 
+La plaquette d'epoxy est ensuite déposée dans un bain de perchlorure de fer pour la gravure, pendant environ 5 minutes également. Le cuivre non protégé par la résine a été retiré, ce qui permet d'obtenir le PCB modélisé. 
+Enfin, on applique de l'acétone sur la plaquette afin d'ôter les dernières traces de résine résiduelle.
+
+### Perçage et soudure <a id="QuatriemeSection6"></a>
+
+Nous avons ensuite percé notre PCB aux endroits où des composants devaient être insérés. Le diamètre des trous est de 0.8mm pour l'AOP et autres composants (résistances et capacités) et de 1mm pour les connecteurs de l'Arduino et des headers des différents modules (bluetooth, oled, etc).
+
+*mettre photo du PCB (dessus et dessous)*
 
 ## Datasheet <a id="CinquiemeSection"></a>
