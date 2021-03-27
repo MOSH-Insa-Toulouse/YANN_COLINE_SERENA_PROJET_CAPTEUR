@@ -34,8 +34,7 @@ Ensuite, pour télécharger l'application que nous avons codée, il suffit de cl
 
 Une fois notre application **Projet_Capteur** téléchargée, l'interface vue est la suivante : 
 
-![Screen_ecran_appli](https://user-images.githubusercontent.com/78104030/112719428-46c13480-8ef9-11eb-9b36-b447899ebbba.jpg)
-<img src="https://user-images.githubusercontent.com/78104030/112719428-46c13480-8ef9-11eb-9b36-b447899ebbba.jpg" width="120" height="120">
+<img src="https://user-images.githubusercontent.com/78104030/112719428-46c13480-8ef9-11eb-9b36-b447899ebbba.jpg" width="120" height="150">
 
 Voilà la procédure à suivre afin de commencer à relever les valeurs de la résistance du capteur :
 
