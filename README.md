@@ -58,7 +58,7 @@ Le code arduino permet :
 * De l'afficher sur un écran OLED 
 * D'assurer la connexion bluetooth entre le module Arduino et l'application smartphone APK
 
-<img src="https://user-images.githubusercontent.com/78104030/116733135-03704f00-a9ec-11eb-9cd4-c90cffc99c33.jpg" width="350" height="300">
+<img src="https://user-images.githubusercontent.com/78104030/116733135-03704f00-a9ec-11eb-9cd4-c90cffc99c33.jpg" width="320" height="300">
 
 
 
