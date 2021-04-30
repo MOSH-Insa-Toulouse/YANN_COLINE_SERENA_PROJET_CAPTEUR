@@ -91,7 +91,7 @@ Le PCB sera par la suite branché sur un microcontrôleur Arduino Uno, du même 
 
 * **Amplificateur LT1050** (*empreinte présente par défaut dans le logiciel*)
 
-<img src="https://user-images.githubusercontent.com/78104030/116734563-b1302d80-a9ed-11eb-83d0-72dc83b904a4.png" width="450" height="320"> 
+<img src="https://user-images.githubusercontent.com/78104030/116734563-b1302d80-a9ed-11eb-83d0-72dc83b904a4.png" width="450" height="350"> 
 
 
 
@@ -101,14 +101,14 @@ Le PCB sera par la suite branché sur un microcontrôleur Arduino Uno, du même 
 Une fois les empreintes créées, nous avons pu réaliser le Eeschema de notre shield. 
 En haut à droite sont représentées les broches de la carte Arduino. Au centre du PCB, on trouve l'amplificateur transimpédance (permettant de traiter les données envoyées par le capteur, c'est-à-dire la variation de résistance), le module Bluetooth et l'écran OLED. 
 
-<img src="https://user-images.githubusercontent.com/78104030/116734775-f18fab80-a9ed-11eb-9882-f38db9a10799.png" width="450" height="320">
+<img src="https://user-images.githubusercontent.com/78104030/116734775-f18fab80-a9ed-11eb-9882-f38db9a10799.png" width="450" height="350">
 
 
 ### Placement des composants <a id="QuatriemeSection3"></a>
 
 Ensuite, nous avons pu placer les composants sur notre PCB afin de les répartir au mieux et d'optimiser les branchements.
 
-<img src="https://user-images.githubusercontent.com/78104030/116734858-0ec47a00-a9ee-11eb-881e-695a98af9c4d.png" width="450" height="320">
+<img src="https://user-images.githubusercontent.com/78104030/116734858-0ec47a00-a9ee-11eb-881e-695a98af9c4d.png" width="450" height="350">
 
 
 ### Visualisation 3D <a id="QuatriemeSection4"></a>
