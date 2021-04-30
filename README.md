@@ -135,4 +135,8 @@ Nous avons ensuite percé notre PCB aux endroits où des composants devaient êt
 
 ## Banc de test <a id="SixiemeSection"></a>
 
+Pour réaliser notre banc de test, nous avons utilisé le banc de test fourni par le Génie Physique : 7 demi-cercles en plastique, dont les diamètres varient de 1 cm à 2,5cm.
+
+<img width="252" alt="BancDeTest" src="https://user-images.githubusercontent.com/78104030/116738001-2dc50b00-a9f2-11eb-9315-dd29a9fe3ac9.png">
+
 ## Datasheet <a id="CinquiemeSection"></a>
