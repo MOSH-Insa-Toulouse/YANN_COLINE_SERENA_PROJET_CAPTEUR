@@ -19,7 +19,7 @@ Enfin, nous avons pu effectuer différents tests sur ce nouveau PCB et caractér
 * [Code Arduino](#DeuxiemeSection)
 * [Application smartphone APK](#TroisiemeSection)
 * [Fabrication du shield](#QuatriemeSection)
-  * [Composants designés : symboles et empreintes](#QuatriemeSection1)
+  * [Composants designés : empreintes](#QuatriemeSection1)
   * [Schématique](#QuatriemeSection2)
   * [Placement des composants](#QuatriemeSection3)
   * [Visualisation 3D](#QuatriemeSection4)
@@ -79,16 +79,22 @@ Grâce au logiciel *MIT App Inventor*, nous avons pu coder une application très
 Pour fabriquer notre PCB shield, nous avons d'abord dû le designer à l'aide du logiciel *KICAD*. 
 Le PCB sera par la suite branché sur un microcontrôleur Arduino Uno, du même type que celui que nous avions utilisé avec notre BreadBord. Ce PCB contient également l'amplificateur transimpédance, le module Bluetooth, et l'écran OLED.
 
-### Composants designés : symboles et empreintes <a id="QuatriemeSection1"></a>
+### Composants designés : empreintes <a id="QuatriemeSection1"></a>
 
 * **Ecranc OLED**
-*ajouter image*
+
+<img src="https://user-images.githubusercontent.com/78104030/116734178-61e9fd00-a9ed-11eb-8a02-45e02be41358.png" width="430" height="290">
 
 * **Module Bluetooth**
-*ajouter image*
+
+<img src="https://user-images.githubusercontent.com/78104030/116734487-9a89d680-a9ed-11eb-97f0-5b48eb89c6c6.png" width="430" height="290">
 
 * **Amplificateur LT1050** (*empreinte présente par défaut dans le logiciel*)
-*ajouter image*
+
+<img src="https://user-images.githubusercontent.com/78104030/116734563-b1302d80-a9ed-11eb-83d0-72dc83b904a4.png" width="430" height="320"> 
+
+
+
 
 ### Schématique <a id="QuatriemeSection2"></a>
 
