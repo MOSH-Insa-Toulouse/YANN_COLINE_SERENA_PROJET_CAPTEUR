@@ -26,6 +26,7 @@ Enfin, nous avons pu effectuer différents tests sur ce nouveau PCB et caractér
   * [Réalisation du PCB](#QuatriemeSection5)
   * [Perçage et soudure](#QuatriemeSection6)
 * [Banc de test](#SixiemeSection)
+  * [Résultats obtenus](#SixiemeSection1)
 * [Datasheet](#CinquiemeSection)
 
 
@@ -138,5 +139,11 @@ Nous avons ensuite percé notre PCB aux endroits où des composants devaient êt
 Pour réaliser notre banc de test, nous avons utilisé le banc de test fourni par le Génie Physique : 7 demi-cercles en plastique, dont les diamètres varient de 1 cm à 2,5cm.
 
 <img width="252" alt="BancDeTest" src="https://user-images.githubusercontent.com/78104030/116738001-2dc50b00-a9f2-11eb-9315-dd29a9fe3ac9.png">
+
+Nous avons appuyé le capteur de graphène sur chacun des demi-cercles (afin qu'il en épouse la forme), et relevé les valeurs de résistances pour les différents cas.
+
+### Résultats obtenus <a id="SixiemeSection1"></a>
+
+<img width="1309" alt="Graphique jauge de contrainte" src="https://user-images.githubusercontent.com/78104030/116738534-dd9a7880-a9f2-11eb-9f43-509e2842b4fa.png">
 
 ## Datasheet <a id="CinquiemeSection"></a>
