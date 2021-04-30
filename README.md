@@ -140,10 +140,13 @@ Pour réaliser notre banc de test, nous avons utilisé le banc de test fourni pa
 
 <img width="252" alt="BancDeTest" src="https://user-images.githubusercontent.com/78104030/116738001-2dc50b00-a9f2-11eb-9315-dd29a9fe3ac9.png">
 
-Nous avons appuyé le capteur de graphène sur chacun des demi-cercles (afin qu'il en épouse la forme), et relevé les valeurs de résistances pour les différents cas.
+Pour différentes dureté de graphite, nous avons appuyé le capteur de graphène sur chacun des demi-cercles (afin qu'il en épouse la forme), et relevé les valeurs de résistances pour les différents cas.
 
 ### Résultats obtenus <a id="SixiemeSection1"></a>
 
 <img width="1309" alt="Graphique jauge de contrainte" src="https://user-images.githubusercontent.com/78104030/116738534-dd9a7880-a9f2-11eb-9f43-509e2842b4fa.png">
+
+Dans tous les cas, on peut noter que quand la déflection du capteur augmente, la variation relative de résistance augmente elle aussi. Cela parait cohérent avec notre capteur ; en effet, plus le capteur est déformé, plus les atomes de carbone qui le constituent sont éloignés les uns des autres. Ainsi, le courant trouve moins facilement son chemin dans le capteur, et cela implque une augmentation de la résistance. 
+Pour le graphène 6B, le premier point semble un peu aberrant ; c'est certainement dû à une erreur de mesure lors de la réalisation du banc. 
 
 ## Datasheet <a id="CinquiemeSection"></a>
