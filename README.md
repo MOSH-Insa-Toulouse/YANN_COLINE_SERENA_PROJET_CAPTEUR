@@ -54,12 +54,18 @@ Voilà la procédure à suivre afin de commencer à relever les valeurs de la r�
 ## Code Arduino <a id="DeuxiemeSection"></a>
 
 Le code arduino permet : 
+
 * De récupérer la valeur de tension renvoyée par le capteur de graphène
+
+<img src="https://user-images.githubusercontent.com/78104030/116733569-8c878600-a9ec-11eb-8ad4-6e947fba7407.jpg" width="220" height="430">
+
 * De l'afficher sur un écran OLED 
+
+<img src="https://user-images.githubusercontent.com/78104030/116733682-ae810880-a9ec-11eb-8fca-40da23c3aa00.jpg" width="220" height="430">
+
 * D'assurer la connexion bluetooth entre le module Arduino et l'application smartphone APK
 
-<img src="https://user-images.githubusercontent.com/78104030/116733135-03704f00-a9ec-11eb-9cd4-c90cffc99c33.jpg" width="320" height="300">
-
+<img src="https://user-images.githubusercontent.com/78104030/116733768-cbb5d700-a9ec-11eb-8f72-42d47b1c3d24.jpg width="220" height="430">
 
 
 ## Application smartphone APK <a id="TroisiemeSection"></a>
