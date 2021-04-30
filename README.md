@@ -127,6 +127,9 @@ Enfin, on applique de l'acétone sur la plaquette afin d'ôter les dernières tr
 
 Nous avons ensuite percé notre PCB aux endroits où des composants devaient être insérés. Le diamètre des trous est de 0.8mm pour l'AOP et autres composants (résistances et capacités) et de 1mm pour les connecteurs de l'Arduino et des headers des différents modules (bluetooth, oled, etc).
 
-*mettre photo du PCB (dessus et dessous)*
+<img src="https://user-images.githubusercontent.com/78104030/116735098-5c40e700-a9ee-11eb-9ba0-b5eef3b30173.jpg" width="320" height="450">
+
+<img src="https://user-images.githubusercontent.com/78104030/116735109-5ea34100-a9ee-11eb-8ac1-f25e8ea18096.jpg" width="320" height="450">
+
 
 ## Datasheet <a id="CinquiemeSection"></a>
