@@ -57,15 +57,15 @@ Le code arduino permet :
 
 * De récupérer la valeur de tension renvoyée par le capteur de graphène
 
-<img src="https://user-images.githubusercontent.com/78104030/116733569-8c878600-a9ec-11eb-8ad4-6e947fba7407.jpg" width="280" height="430">
+<img src="https://user-images.githubusercontent.com/78104030/116733569-8c878600-a9ec-11eb-8ad4-6e947fba7407.jpg" width="290" height="430">
 
 * De l'afficher sur un écran OLED 
 
-<img src="https://user-images.githubusercontent.com/78104030/116733682-ae810880-a9ec-11eb-8fca-40da23c3aa00.jpg" width="280" height="430">
+<img src="https://user-images.githubusercontent.com/78104030/116733682-ae810880-a9ec-11eb-8fca-40da23c3aa00.jpg" width="290" height="430">
 
 * D'assurer la connexion bluetooth entre le module Arduino et l'application smartphone APK
 
-<img src="https://user-images.githubusercontent.com/78104030/116733768-cbb5d700-a9ec-11eb-8f72-42d47b1c3d24.jpg" width="430" height="280">
+<img src="https://user-images.githubusercontent.com/78104030/116733768-cbb5d700-a9ec-11eb-8f72-42d47b1c3d24.jpg" width="430" height="290">
 
 
 ## Application smartphone APK <a id="TroisiemeSection"></a>
