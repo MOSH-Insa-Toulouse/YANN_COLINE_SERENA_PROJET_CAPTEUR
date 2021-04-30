@@ -25,7 +25,9 @@ Enfin, nous avons pu effectuer différents tests sur ce nouveau PCB et caractér
   * [Visualisation 3D](#QuatriemeSection4)
   * [Réalisation du PCB](#QuatriemeSection5)
   * [Perçage et soudure](#QuatriemeSection6)
+* [Banc de test](#SixiemeSection)
 * [Datasheet](#CinquiemeSection)
+
 
 
 ## Protocole d'utilisation du capteur de contrainte <a id="PremiereSection"></a>
@@ -131,5 +133,6 @@ Nous avons ensuite percé notre PCB aux endroits où des composants devaient êt
 
 <img src="https://user-images.githubusercontent.com/78104030/116735109-5ea34100-a9ee-11eb-8ac1-f25e8ea18096.jpg" width="320" height="450">
 
+## Banc de test <a id="SixiemeSection"></a>
 
 ## Datasheet <a id="CinquiemeSection"></a>
