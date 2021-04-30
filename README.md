@@ -33,7 +33,7 @@ Enfin, nous avons pu effectuer différents tests sur ce nouveau PCB et caractér
 
 ## Protocole d'utilisation du capteur de contrainte <a id="PremiereSection"></a>
 
-<img src="https://user-images.githubusercontent.com/78104030/116739955-9e6d2700-a9f4-11eb-8f4c-f089d9e5cb77.jpg" width="220" height="430">
+<img src="https://user-images.githubusercontent.com/78104030/116739955-9e6d2700-a9f4-11eb-8f4c-f089d9e5cb77.jpg" width="350" height="430">
 
 Tout d'abord, il faut brancher le module Arduino au port USB d'un ordinateur afin de le mettre sous tension. Le module Bluetooth devrait afficher un voyant rouge, clignotant à une fréquence assez rapide.
 
