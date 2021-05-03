@@ -146,7 +146,7 @@ Pour réaliser notre banc de test, nous avons utilisé le banc de test fourni pa
 
 Pour différentes dureté de graphite (9B, 6B, 2H, etc), et donc pour différents capteurs, nous avons appuyé le capteur de graphène sur chacun des demi-cercles (afin qu'il en épouse la forme). Chaque rayon est donc associé à une déformation maximale applicable au capteur. Ensuite, dans les différents cas, nous avons relevé les valeurs de résistances affichées par l'application smartphone APK.
 
-La déformation pouvant être "externe" ou "interne", nous avons choisi de travailler sur une déformation externe (le capteur est posé de telle sorte à ce que le graphène ne soit pas en contact avec le demi-cercle). 
+La déformation pouvant être réalisée en tension ou en compression, nous avons choisi de travailler sur une déformation en tension (le capteur est posé de telle sorte à ce que le graphène ne soit pas en contact avec le demi-cercle). 
 
 ### Résultats obtenus <a id="SixiemeSection1"></a>
 
