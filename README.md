@@ -73,9 +73,12 @@ Le code arduino permet :
 
 ## Application smartphone APK <a id="TroisiemeSection"></a>
 
-Grâce au logiciel *MIT App Inventor*, nous avons pu coder une application très simple, permettant d'afficher les tension et résistance délivrées par le capteur sur un graphique. Elle permet aussi d'assurer la connexion bluetooth entre le module Arduino et notre capteur. Voilà un screen du code
+Grâce au logiciel *MIT App Inventor*, nous avons pu coder une application très simple, permettant d'afficher les tension et résistance délivrées par le capteur sur un graphique. Elle permet aussi d'assurer la connexion bluetooth entre le module Arduino et notre capteur.
+(Pour voir comment connecter le module bluetooth à l'application, se référer à la partie _Protocole d'utilisation du capteur de contrainte_). 
+L'application est codée de telle sorte à correspondre au code Arduino, afin que les valeurs que le code et l'application s'envoient mutuellement (via le module Bluetooth) corrèlent. 
+En appuyant sur **ON**, l'acquisition démarre et le graphique correspondant à la valeur de la résistance mesurée par le capteur commence à se tracer. A tout moment, il est possible d'appuyer sur **OFF** pour stopper l'acquisition.
 
-
+<img width="279" alt="APK_screen" src="https://user-images.githubusercontent.com/78104030/116856307-3c324300-abfb-11eb-8ec9-78d39b267cbd.png">
 
 ## Fabrication du PCB shield <a id="QuatriemeSection"></a>
 
