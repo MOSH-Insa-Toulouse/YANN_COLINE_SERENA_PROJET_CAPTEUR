@@ -27,6 +27,7 @@ Enfin, nous avons pu effectuer différents tests sur ce nouveau PCB et caractér
   * [Perçage et soudure](#QuatriemeSection6)
 * [Banc de test](#SixiemeSection)
   * [Résultats obtenus](#SixiemeSection1)
+  * [Pistes d'améliorations](#SixiemeSection2)
 * [Datasheet](#CinquiemeSection)
 
 
@@ -143,13 +144,21 @@ Pour réaliser notre banc de test, nous avons utilisé le banc de test fourni pa
 
 <img width="252" alt="BancDeTest" src="https://user-images.githubusercontent.com/78104030/116738001-2dc50b00-a9f2-11eb-9315-dd29a9fe3ac9.png">
 
-Pour différentes dureté de graphite, nous avons appuyé le capteur de graphène sur chacun des demi-cercles (afin qu'il en épouse la forme), et relevé les valeurs de résistances pour les différents cas.
+Pour différentes dureté de graphite (9B, 6B, 2H, etc), et donc pour différents capteurs, nous avons appuyé le capteur de graphène sur chacun des demi-cercles (afin qu'il en épouse la forme). Chaque rayon est donc associé à une déformation maximale applicable au capteur. Ensuite, dans les différents cas, nous avons relevé les valeurs de résistances affichées par l'application smartphone APK.
+
+La déformation pouvant être "externe" ou "interne", nous avons choisi de travailler sur une déformation externe (le capteur est posé de telle sorte à ce que le graphène ne soit pas en contact avec le demi-cercle). 
 
 ### Résultats obtenus <a id="SixiemeSection1"></a>
 
 <img width="1309" alt="Graphique jauge de contrainte" src="https://user-images.githubusercontent.com/78104030/116738534-dd9a7880-a9f2-11eb-9f43-509e2842b4fa.png">
 
 Dans tous les cas, on peut noter que quand la déflection du capteur augmente, la variation relative de résistance augmente elle aussi. Cela parait cohérent avec notre capteur ; en effet, plus le capteur est déformé, plus les atomes de carbone qui le constituent sont éloignés les uns des autres. Ainsi, le courant trouve moins facilement son chemin dans le capteur, et cela implque une augmentation de la résistance. 
-Pour le graphène 6B, le premier point semble un peu aberrant ; c'est certainement dû à une erreur de mesure lors de la réalisation du banc. 
+
+### Pistes d'améliorations <a id="SixiemeSection2"></a>
+
+Pour le graphène 6B, le premier point semble un peu aberrant ; plusieurs facteurs peuvent expliquer cela. 
+
+1. Malgré une même dureté appliquée sur certains capteurs, les résultats observés variaient beaucoup ; chaque capteur, en fonction de la quantité de graphène appliquée (qui n'est jamais exactement la même), était unique. Cela ne facilitait donc pas la fiabilité des résultats.
+2. Une fois le capteur utilisé sur un, voire deux demi-cercles, il devenait difficilement réutilisable. Le banc de test était donc légèrement destructif, et il a fallu parfois utiliser plusieurs capteurs différents pour une même dureté. Cumulée avec l'effet numéro 1, cette difficulté peut expliquer les différences et incohérences observées dans les résultats. 
 
 ## Datasheet <a id="CinquiemeSection"></a>
