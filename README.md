@@ -160,5 +160,6 @@ Pour le graphène 6B, le premier point semble un peu aberrant ; plusieurs facteu
 
 1. Malgré une même dureté appliquée sur certains capteurs, les résultats observés variaient beaucoup ; chaque capteur, en fonction de la quantité de graphène appliquée (qui n'est jamais exactement la même), était unique. Cela ne facilitait donc pas la fiabilité des résultats.
 2. Une fois le capteur utilisé sur un, voire deux demi-cercles, il devenait difficilement réutilisable. Le banc de test était donc légèrement destructif, et il a fallu parfois utiliser plusieurs capteurs différents pour une même dureté. Cumulée avec l'effet numéro 1, cette difficulté peut expliquer les différences et incohérences observées dans les résultats. 
+3. La variation de résistance n'est pas linéaire (ou proportionnelle) au type de crayon utilisé pour réaliser le capteur. On pourrait s'attendre à ce que la variation de résistance devienne de plus en plus importante à mesure que 
 
 ## Datasheet <a id="CinquiemeSection"></a>
