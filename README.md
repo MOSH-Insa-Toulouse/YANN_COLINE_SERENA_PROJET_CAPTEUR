@@ -154,7 +154,7 @@ La déformation pouvant être réalisée en tension ou en compression, nous avon
 
 Dans tous les cas, on peut noter que quand la déflection du capteur augmente, la variation relative de résistance augmente elle aussi. Cela parait cohérent avec notre capteur ; en effet, plus le capteur est déformé, plus les atomes de carbone qui le constituent sont éloignés les uns des autres. Ainsi, le courant trouve moins facilement son chemin dans le capteur, et cela implque une augmentation de la résistance. 
 
-### Pistes d'améliorations <a id="SixiemeSection2"></a>
+### Sources d'erreurs et pistes d'améliorations <a id="SixiemeSection2"></a>
 
 Pour le graphène 6B, le premier point semble un peu aberrant ; plusieurs facteurs peuvent expliquer cela. 
 
